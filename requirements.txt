@@ -1,1 +1,1 @@
-umap-learn[plot]
+umap-learn>=4
