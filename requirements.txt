@@ -1,1 +1,1 @@
-umap-learn>=4
+umap-learn
